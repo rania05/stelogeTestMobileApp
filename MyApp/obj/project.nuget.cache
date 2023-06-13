@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRhsoUUzSjV8cPfVMXVIAcH10+T0tv2odvVodfF/GTYqDc5oLLF8ChBbL8G9VTZbp5QAnvWPR21nlowB1kRZMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Archimed\\source\\repos\\MyApp\\MyApp\\MyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Archimed\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Archimed\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Archimed\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Archimed\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Archimed\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

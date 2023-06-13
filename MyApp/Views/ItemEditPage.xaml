@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="MyApp.Views.ItemEditPage">
+    <ContentPage.Content>
+          <StackLayout Spacing="20" Padding="15">
+        <Label Text="Reference:" FontSize="Medium" />
+        <Entry Text="{Binding Reference}" FontSize="Small"/>
+        <Label Text="Nom:" FontSize="Medium" />
+        <Entry Text="{Binding Nom}" FontSize="Small"/>
+        <Label Text="Prix:" FontSize="Medium" />
+        <Entry Text="{Binding Prix}" FontSize="Small"/>
+        <Label Text="Quantite:" FontSize="Medium" />
+        <Entry Text="{Binding Qt}" FontSize="Small"/>
+        
+        <!-- Modify Button -->
+        
+    </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
